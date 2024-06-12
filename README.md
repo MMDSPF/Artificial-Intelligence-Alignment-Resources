@@ -1,2 +1,2 @@
-# Artificial-Intelligence-Integration-Resources
-Resources for Artificial Intelligence Integration 
+# Artificial-Intelligence-Alignment-Resources
+Resources for Artificial Intelligence Alignment 
