@@ -1,2 +1,2 @@
 # Artificial-Intelligence-Alignment-Resources
-Resources for Artificial Intelligence Alignment 
+Resources for Artificial Intelligence Alignment & Security
