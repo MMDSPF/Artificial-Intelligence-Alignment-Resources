@@ -13,18 +13,17 @@ arXiv:2310.19852, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.19852)]
 [[Homepage](https://alignmentsurvey.com/)]
 
+**A Moral Imperative: The Need for Continual Superalignment of Large Language Models.**<br>
+*G Puthumanaillam, M Vora, P Thangeda, M Ornik.*<br>
+arXiv:2403.14683, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.14683)]
+
 ## Al Security
 
 **Safeguarding Large Language Models: A Survey.**<br>
 *Y Dong, R Mu, Y Zhang, S Sun, T Zhang, C Wu, G Jin, Y Qi, J Hu, J Meng, S Bensalem, et al.*<br>
 arXiv:2406.02622, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.02622)]
-
-**Ai alignment: A comprehensive survey.**<br>
-*J Ji, T Qiu, B Chen, B Zhang, H Lou, K Wang, Y Duan, Z He, J Zhou, Z Zhang, F Zeng, KY Ng, et al.*<br>
-arXiv:2310.19852, 2023.
-[[ArXiv](https://arxiv.org/pdf/2310.19852)]
-[[Homepage](https://alignmentsurvey.com/)]
 
 ## PEFT
 
