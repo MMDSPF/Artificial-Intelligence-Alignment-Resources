@@ -20,6 +20,16 @@ arXiv:2403.14683, 2024.
 
 ## Al Security
 
+**A survey of safety and trustworthiness of large language models through the lens of verification and validation.**<br>
+*X Huang, W Ruan, W Huang, G **, Y Dong, C Wu, S Bensalem, R Mu, Y Qi, X Zhao, K Cai, et al.*<br>
+arxiv:2305.11391, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.11391)]
+
+**A survey on large language model (llm) security and privacy: The good, the bad, and the ugly.**<br>
+*Y Yao, J Duan, K Xu, Y Cai, Z Sun, Y Zhang.*<br>
+High-Confidence Computing, 2024.
+[[Paper](https://www.sciencedirect.com/science/article/pii/S266729522400014X)]
+
 **Safeguarding Large Language Models: A Survey.**<br>
 *Y Dong, R Mu, Y Zhang, S Sun, T Zhang, C Wu, G Jin, Y Qi, J Hu, J Meng, S Bensalem, et al.*<br>
 arXiv:2406.02622, 2024.
