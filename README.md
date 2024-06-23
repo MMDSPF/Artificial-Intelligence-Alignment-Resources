@@ -1,6 +1,26 @@
 # Artificial-Intelligence-Alignment-Resources
 
-## AI Aligenment
+## Knowledge Aligenment 
+
+### PEFT
+
+**Parameter-efficient fine-tuning of large-scale pre-trained language models.**<br>
+*N Ding, Y Qin, G Yang, F Wei, Z Yang, Y Su, S Hu, Y Chen, CM Chan, W Chen, J Yi, W Zhao, et al.*<br>
+Nature Machine Intelligence, 2023.
+[[Paper](https://www.nature.com/articles/s42256-023-00626-4)]
+
+**Lora: Low-rank adaptation of large language models.**<br>
+*EJ Hu, Y Shen, P Wallis, Z Allen-Zhu, Y Li, S Wang, L Wang, W Chen.*<br>
+arXiv:2106.09685, 2021.
+[[Paper](https://arxiv.org/pdf/2106.09685))]
+
+**Longlora: Efficient fine-tuning of long-context large language models.**<br>
+*Y Chen, S Qian, H Tang, X Lai, Z Liu, S Han, J Jia.*<br>
+arXiv:2309.12307, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.12307)]
+[[Github](https://github.com/dvlab-research/LongLoRA)]
+
+## Value Aligenment
 
 **Large language model alignment: A survey.**<br>
 *T Shen, R Jin, Y Huang, C Liu, W Dong, Z Guo, X Wu, Y Liu, D Xiong.*<br>
@@ -34,21 +54,3 @@ High-Confidence Computing, 2024.
 *Y Dong, R Mu, Y Zhang, S Sun, T Zhang, C Wu, G Jin, Y Qi, J Hu, J Meng, S Bensalem, et al.*<br>
 arXiv:2406.02622, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.02622)]
-
-## PEFT
-
-**Parameter-efficient fine-tuning of large-scale pre-trained language models.**<br>
-*N Ding, Y Qin, G Yang, F Wei, Z Yang, Y Su, S Hu, Y Chen, CM Chan, W Chen, J Yi, W Zhao, et al.*<br>
-Nature Machine Intelligence, 2023.
-[[Paper](https://www.nature.com/articles/s42256-023-00626-4)]
-
-**Lora: Low-rank adaptation of large language models.**<br>
-*EJ Hu, Y Shen, P Wallis, Z Allen-Zhu, Y Li, S Wang, L Wang, W Chen.*<br>
-arXiv:2106.09685, 2021.
-[[Paper](https://arxiv.org/pdf/2106.09685))]
-
-**Longlora: Efficient fine-tuning of long-context large language models.**<br>
-*Y Chen, S Qian, H Tang, X Lai, Z Liu, S Han, J Jia.*<br>
-arXiv:2309.12307, 2023.
-[[ArXiv](https://arxiv.org/pdf/2309.12307)]
-[[Github](https://github.com/dvlab-research/LongLoRA)]
