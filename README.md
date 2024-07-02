@@ -52,6 +52,12 @@ arXiv:2311.06503, 2023.
 ICLR, 2021.
 [[ArXiv](https://arxiv.org/pdf/2008.02275)]
 
+**Safe rlhf: Safe reinforcement learning from human feedback.**<br>
+*J Dai, X Pan, R Sun, J Ji, X Xu, M Liu, Y Wang, et al.*<br>
+arXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.12773)]
+[[Github](https://github.com/PKU-Alignment/safe-rlhf)]
+
 **A Moral Imperative: The Need for Continual Superalignment of Large Language Models.**<br>
 *G Puthumanaillam, M Vora, P Thangeda, M Ornik.*<br>
 arXiv:2403.14683, 2024.
