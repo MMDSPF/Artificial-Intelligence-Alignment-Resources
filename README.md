@@ -39,6 +39,12 @@ arXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.02416)]
 [[HomePage](https://aligner2024.github.io/)]
 
+**Knowledgeable preference alignment for llms in domain-specific question answering.**<br>
+*Y Zhang, Z Chen, Y Fang, L Cheng, Y Lu, F Li, W Zhang, H Chen.*<br>
+arXiv:2311.06503, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.06503)]
+[[Github](https://github.com/zjukg/KnowPAT)]
+
 ## Value Alignment
 
 **Aligning ai with shared human values.**<br>
