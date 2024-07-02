@@ -1,6 +1,6 @@
 # Artificial-Intelligence-Alignment-Resources
 
-## Knowledge Alignment 
+## Finetuning
 
 ### PEFT
 
