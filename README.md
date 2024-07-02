@@ -90,7 +90,8 @@ arXiv:2309.12307, 2023.
 
 ## Tools
 
-**A survey of safety and trustworthiness of large language models through the lens of verification and validation.**<br>
-*X Huang, W Ruan, W Huang, G **, Y Dong, C Wu, S Bensalem, R Mu, Y Qi, X Zhao, K Cai, et al.*<br>
-arxiv:2305.11391, 2023.
-[[ArXiv](https://arxiv.org/pdf/2305.11391)]
+**NeMo-Aligner: Scalable Toolkit for Efficient Model Alignment.**<br>
+*G Shen, Z Wang, O Delalleau, J Zeng, Y Dong, D Egert, S Sun, J Zhang, S Jain, et al.*<br>
+arXiv:2405.01481, 2024.
+[[ArXiv](https://arxiv.org/pdf/2405.01481)]
+[[Github](https://github.com/NVIDIA/NeMo-Aligner)]
