@@ -41,6 +41,11 @@ arXiv:2307.12966, 2023.
 
 ## Value Aligenment
 
+**Aligning ai with shared human values.**<br>
+*D Hendrycks, C Burns, S Basart, A Critch, J Li, D Song, J Steinhardt.*<br>
+ICLR, 2021.
+[[ArXiv](https://arxiv.org/pdf/2008.02275)]
+
 **A Moral Imperative: The Need for Continual Superalignment of Large Language Models.**<br>
 *G Puthumanaillam, M Vora, P Thangeda, M Ornik.*<br>
 arXiv:2403.14683, 2024.
