@@ -39,14 +39,21 @@ arXiv:2307.12966, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.12966)]
 [[Homepage](https://github.com/GaryYufei/AlignLLMHumanSurvey/)]
 
-## Intentions (Capacity) Aligenment
+## Capacity Alignment
 
 **Making large language models better reasoners with alignment.**<br>
 *P Wang, L Li, L Chen, F Song, B Lin, Y Cao, T Liu, Z Sui.*<br>
 arXiv:2309.02144, 2023.
 [[Paper](https://arxiv.org/pdf/2309.02144)]
 
-## Preference Aligenment
+## Intentions Alignment
+
+**Making large language models better reasoners with alignment.**<br>
+*P Wang, L Li, L Chen, F Song, B Lin, Y Cao, T Liu, Z Sui.*<br>
+arXiv:2309.02144, 2023.
+[[Paper](https://arxiv.org/pdf/2309.02144)]
+
+## Preference Alignment
 
 **Preference ranking optimization for human alignment.**<br>
 *F Song, B Yu, M Li, H Yu, F Huang, Y Li, et al.*<br>
@@ -59,7 +66,7 @@ arXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.02416)]
 [[HomePage](https://aligner2024.github.io/)]
 
-## Value Aligenment
+## Value Alignment
 
 **Aligning ai with shared human values.**<br>
 *D Hendrycks, C Burns, S Basart, A Critch, J Li, D Song, J Steinhardt.*<br>
@@ -87,3 +94,10 @@ High-Confidence Computing, 2024.
 *Y Dong, R Mu, Y Zhang, S Sun, T Zhang, C Wu, G Jin, Y Qi, J Hu, J Meng, S Bensalem, et al.*<br>
 arXiv:2406.02622, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.02622)]
+
+## Tools
+
+**A survey of safety and trustworthiness of large language models through the lens of verification and validation.**<br>
+*X Huang, W Ruan, W Huang, G **, Y Dong, C Wu, S Bensalem, R Mu, Y Qi, X Zhao, K Cai, et al.*<br>
+arxiv:2305.11391, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.11391)]
