@@ -20,7 +20,7 @@ arXiv:2309.12307, 2023.
 [[ArXiv](https://arxiv.org/pdf/2309.12307)]
 [[Github](https://github.com/dvlab-research/LongLoRA)]
 
-## Value Aligenment
+## Review
 
 **Large language model alignment: A survey.**<br>
 *T Shen, R Jin, Y Huang, C Liu, W Dong, Z Guo, X Wu, Y Liu, D Xiong.*<br>
@@ -32,6 +32,14 @@ arXiv:2309.15025, 2023.
 arXiv:2310.19852, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.19852)]
 [[Homepage](https://alignmentsurvey.com/)]
+
+**Aligning large language models with human: A survey.**<br>
+*Y Wang, W Zhong, L Li, F Mi, X Zeng, W Huang, L Shang, X Jiang, Q Liu.*<br>
+arXiv:2307.12966, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.12966)]
+[[Homepage](https://github.com/GaryYufei/AlignLLMHumanSurvey/)]
+
+## Value Aligenment
 
 **A Moral Imperative: The Need for Continual Superalignment of Large Language Models.**<br>
 *G Puthumanaillam, M Vora, P Thangeda, M Ornik.*<br>
