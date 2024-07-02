@@ -88,6 +88,14 @@ arXiv:2309.12307, 2023.
 [[ArXiv](https://arxiv.org/pdf/2309.12307)]
 [[Github](https://github.com/dvlab-research/LongLoRA)]
 
+## DataSets
+
+**Openassistant conversations-democratizing large language model alignment.**<br>
+*A Köpf, Y Kilcher, D von Rütte, S Anagnostidis, ZR Tam, K Stevens, A Barhoum, D Nguyen, et al.*<br>
+Advances in Neural Information Processing Systems, 2024.
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/949f0f8f32267d297c2d4e3ee10a2e7e-Paper-Datasets_and_Benchmarks.pdf)]
+[[Homepage](https://www.ykilcher.com/oa-contributors)]
+
 ## Tools
 
 **NeMo-Aligner: Scalable Toolkit for Efficient Model Alignment.**<br>
