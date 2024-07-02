@@ -39,6 +39,19 @@ arXiv:2307.12966, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.12966)]
 [[Homepage](https://github.com/GaryYufei/AlignLLMHumanSurvey/)]
 
+## Preference Aligenment
+
+**Preference ranking optimization for human alignment.**<br>
+*F Song, B Yu, M Li, H Yu, F Huang, Y Li, et al.*<br>
+AAAI, 2024.
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29865/31509)]
+
+**Aligner: Achieving efficient alignment through weak-to-strong correction.**<br>
+*J Ji, B Chen, H Lou, D Hong, B Zhang, X Pan, et al.*<br>
+arXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.02416)]
+[[HomePage](https://aligner2024.github.io/)]
+
 ## Value Aligenment
 
 **Aligning ai with shared human values.**<br>
