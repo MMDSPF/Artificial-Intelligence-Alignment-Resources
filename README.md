@@ -46,7 +46,7 @@ arXiv:2307.12966, 2023.
 arXiv:2403.14683, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.14683)]
 
-## Al Security
+## Security Aligenment
 
 **A survey of safety and trustworthiness of large language models through the lens of verification and validation.**<br>
 *X Huang, W Ruan, W Huang, G **, Y Dong, C Wu, S Bensalem, R Mu, Y Qi, X Zhao, K Cai, et al.*<br>
