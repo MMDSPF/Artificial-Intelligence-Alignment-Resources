@@ -39,6 +39,13 @@ arXiv:2307.12966, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.12966)]
 [[Homepage](https://github.com/GaryYufei/AlignLLMHumanSurvey/)]
 
+## Intentions (Capacity) Aligenment
+
+**Making large language models better reasoners with alignment.**<br>
+*P Wang, L Li, L Chen, F Song, B Lin, Y Cao, T Liu, Z Sui.*<br>
+arXiv:2309.02144, 2023.
+[[Paper](https://arxiv.org/pdf/2309.02144)]
+
 ## Preference Aligenment
 
 **Preference ranking optimization for human alignment.**<br>
